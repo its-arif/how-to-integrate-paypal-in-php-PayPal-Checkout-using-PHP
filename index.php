@@ -86,6 +86,6 @@
 
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css" integrity="sha384-mzrmE5qonljUremFsqc01SB46JvROS7bZs3IO2EmfFsd15uHvIt+Y8vEf7N7fWAU" crossorigin="anonymous">
  <!-- Replace the "test" client-id value with your client-id -->
-<script src="https://www.paypal.com/sdk/js?client-id=AZWFxhHf9ZJv9ApOxUTdtWWqzirAIPeXLa3BnBNyt8C94GYEoYj1H-3ohB2ARRIKrVSseVm91cD6Qb8o&currency=USD"></script>
+<script src="https://www.paypal.com/sdk/js?client-id=YOUR_CLIENT_ID&currency=USD"></script>
 <script src="app.js"></script>
  
